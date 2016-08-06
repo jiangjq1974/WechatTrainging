@@ -1,0 +1,13 @@
+#微信开发学习网址
+##HTML5教材
+http://www.w3school.com.cn
+##JQuery官网
+http://demos.jquerymobile.com/1.4.5
+##在线封装APP
+http://app.aso888.com
+##云晟科技
+http://wy.centralsoft.cn
+##微信公众平台
+https://mp.weixin.qq.com
+##方倍工作室
+http://www.cnblogs.com/txw1958/p/wechat-tutorial.html
